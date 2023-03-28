@@ -1,0 +1,19 @@
+{
+  "name": "projet7",
+  "version": "1.0.0",
+  "description": "c'est une creation d'api rest pour un blog",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon api.js"
+  },
+  "author": "FatimDev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
